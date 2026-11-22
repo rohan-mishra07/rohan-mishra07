@@ -1,0 +1,5 @@
+Tech and brand icons: Simple Icons (npm package "simple-icons", CC0 1.0): https://simpleicons.org
+Used: Python, JavaScript, React, Vite, Spring Boot, EJS, Git, GitHub, Vercel, Instagram.
+LinkedIn is not in Simple Icons, so connect.svg uses a plain "in" mark in LinkedIn blue (#0A66C2).
+Replace it with the official LinkedIn mark if you want exact branding.
+Fonts: Space Grotesk and JetBrains Mono (SIL OFL 1.1), embedded as base64 WOFF2 via @fontsource.

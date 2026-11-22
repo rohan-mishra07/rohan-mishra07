@@ -1,0 +1,4 @@
+To swap in your real portraits: replace id.png and right_pointing.png here, then run
+  python3 build.py
+(needs the @fontsource fonts: npm i @fontsource/space-grotesk @fontsource/jetbrains-mono, and an icons.json).
+Do NOT upload this extras folder to GitHub. Upload only README.md and the assets folder.
